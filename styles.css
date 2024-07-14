@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    margin: 50px 700px;
+    margin: 50px 32%;
 }
 
 button {
